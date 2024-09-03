@@ -1,0 +1,35 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uzair-Manzoor/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uzair-Manzoor/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Uzair-Manzoor/Portfolio#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.29.1",
+    "hint": "^2.0.0",
+    "stylelint": "^16.9.0",
+    "stylelint-config-standard": "^36.0.1",
+    "stylelint-csstree-validator": "^3.0.0",
+    "stylelint-scss": "^6.5.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "node-fetch": "^2.6.11"
+  }
+}
