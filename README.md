@@ -1,4 +1,3 @@
- ![image](https://github.com/Uzair-Manzoor/GemHaven/blob/main/233.png)
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -18,7 +17,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -53,9 +51,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://uzair-manzoor.github.io/Portfolio/)
-  
-  ![image](images/ss.png)
+- [Live Demo Link](https://zanathmar.github.io/Zanathmar-Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +75,7 @@ Clone this repository to your desired folder:
 
 Example commands:
 
-git clone https://github.com/Uzair-Manzoor/Portfolio.git
+git clone https://github.com/Zanathmar/Zanathmar-Portfolio.git
 
 **3. Install** <a name="install"></a>
 
@@ -116,11 +112,11 @@ I have added linters or tests in order to avoid typos and ensure good practice i
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Uzair-Manzoor**
+👤 **Izzan-Athmar**
 
 - GitHub: [@githubhandle](https://github.com/Uzair-Manzoor)
-- Twitter: [@twitterhandle](https://twitter.com/UzairKiyani5555)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uzair-manzoor-b69996115/)
+- Instagram: [@instagram](https://www.instagram.com/zanathmar/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zanathmar/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,13 +152,5 @@ If you like this project please don't hesitate to support me with your valued co
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for their unique way of teach me how to code, and also Freecodecamp and w3school for their practical articles that helped me to make this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](https://github.com/Uzair-Manzoor/Portfolio/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

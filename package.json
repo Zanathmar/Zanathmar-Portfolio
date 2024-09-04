@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uzair-Manzoor/Portfolio.git"
+    "url": "git+https://github.com/Zanathmar/Zanathmar-Portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Uzair-Manzoor/Portfolio/issues"
+    "url": "https://zanathmar.github.io/Zanathmar-Portfolio/issues"
   },
-  "homepage": "https://github.com/Uzair-Manzoor/Portfolio#readme",
+  "homepage": "https://zanathmar.github.io/Zanathmar-Portfolio#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "babel-eslint": "^10.1.0",
