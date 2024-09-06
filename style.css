@@ -210,14 +210,12 @@ main {
   font-weight: 700;
   font-size: 2rem;
   line-height: 2.5rem;
-  filter: drop-shadow(4px 4px 1px rgb(152, 161, 183));
   color: #172b4d;
   padding-bottom: 12px;
 }
 
 .supporting-text {
   font-size: 1rem;
-  filter: drop-shadow(3px 3px 1px rgb(210, 205, 205));
   font-weight: 400;
   line-height: 1.3rem;
   color: #344563;
@@ -341,7 +339,7 @@ main {
 .linkedin:hover,
 .linkedin:hover .tooltip,
 .linkedin:hover .tooltip::before {
-  background: #007bb5;
+  background: rgb(45, 100, 188);
   color: #fff;
 }
 
@@ -349,6 +347,7 @@ main {
 .twitter:hover .tooltip,
 .twitter:hover .tooltip::before {
   background: #ff01bf;
+  background:linear-gradient(rgb(153, 0, 255),#ff01ff,yellow);
   color: #fff;
 }
 
@@ -511,6 +510,9 @@ main {
   letter-spacing: 1px;
   box-shadow: 4px 9px 15px rgb(0 0 0 / 10%), -8px -9px 20px rgb(181 172 172 / 14%);
 }
+.resume-btn {
+  height: 49px;
+}
 
 .button,
 .project-links a {
@@ -570,6 +572,9 @@ main {
   color: #fff;
   cursor: pointer;
   border: 1px solid #6070ff;
+}
+svg:hover {
+  color: #fff;
 }
 
 .button:hover::before,
