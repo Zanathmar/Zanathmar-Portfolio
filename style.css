@@ -7,6 +7,10 @@
   margin: 0;
   scroll-behavior: smooth;
 }
+.fa-solid.fa-bars {
+  font-size: 35px; /* or any size you prefer */
+}
+
 
 body {
   background: linear-gradient(rgb(2, 255, 255), rgb(66, 44, 157), rgb(6, 23, 83));
@@ -132,6 +136,7 @@ main {
 .top-bar {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 0.9rem;
   font-weight: 700;
   color: #6070ff;
@@ -156,6 +161,9 @@ main {
 .social-icons {
   display: flex;
   list-style-type: none;
+}
+.nav-bar {
+  height: fit-content;
 }
 
 .nav-bar > ul {
@@ -519,7 +527,7 @@ main {
   padding: 0.5rem 1rem;
   border: 1px solid #485aff;
   background-color: transparent;
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 0.9rem;
   letter-spacing: 0.03em;
   color: #1c32ff;
@@ -1041,6 +1049,29 @@ form > * {
 }
 
 @media screen and (min-width: 768px) {
+  .nav-bar ul li {
+    display: inline-block;
+    margin-right: 20px; /* adjust the margin to your liking */
+  }
+  
+  .nav-bar ul {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: rgb(72, 72, 72);
+    padding-right: 36px;
+    border-radius: 100px;
+    border: 2px solid rgb(72, 72, 72);
+    border-color: rgb(70, 70, 70);
+    text-align: center;
+    margin-right: 350px;
+    position: relative;
+  }
+  .nav-bar ul i {
+    display: none;
+  }
+  .nav-bar ul li a {
+    color: white;
+  }
   .bar-menu {
     display: none;
   }
