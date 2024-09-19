@@ -44,16 +44,16 @@ window.onload = () => {
 
   const projectsData = [
     {
-      title: 'IDN Fest',
-      subtitle: 'Login and register',
+      title: 'Tesla',
+      subtitle: 'Company Profile',
       techStack: 'Full Stack Dev',
       year: 2024,
-      src: './images/portfolio/IDN Fest.jpg',
-      highlight: 'Hello everyone, let me introduce you to my first project, which is Login and registration. (Under construction)',
-      description: 'Sorry under construction',
+      src: './images/teslaprofile.png',
+      highlight: 'This project showcases the full Tesla company profile, including their innovations, history, and achievements. Built with modern web technologies, it’s fully responsive and user-friendly.',
+      description: 'The Tesla company profile project presents a dynamic overview of the brand, utilizing advanced web technologies like HTML, CSS, and JavaScript. Visitors can explore Tesla’s products, innovations, and future vision, all within a sleek, interactive user interface.',
       lang: ['HTML', 'CSS', 'JavaScript'],
-      live: 'https://zanathmar.github.io/Login-and-register/',
-      source: 'https://github.com/Zanathmar/Login-and-register.git',
+      live: 'https://zanathmar-tesla-company-profile.vercel.app/',
+      source: 'https://github.com/Zanathmar/Tesla-Company-Profile.git',
     },
     {
       title: 'IKEA eCommerce',
