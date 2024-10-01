@@ -13,7 +13,7 @@
 
 
 body {
-  background: linear-gradient(rgb(2, 255, 255), rgb(66, 44, 157), rgb(6, 23, 83));
+  background: linear-gradient(rgb(2, 255, 255), rgb(7, 0, 149), rgb(0, 33, 152));
   /* background-color: #2e0937de; */
   font-family: 'Poppins', sans-serif;
 }
@@ -184,7 +184,7 @@ main {
   border-bottom-left-radius: 100px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.19);
   overflow: hidden;
-  background: url(/Portfolio/images/Background.png);
+  background: url(./images/Background.png);
   background-size: cover;
   
 }
@@ -708,7 +708,7 @@ svg:hover {
   padding: 3rem 2rem;
   display: flex;
   flex-direction: column;
-  background-image: url(/Portfolio/images/Background.png);
+  background-image: url(./images/Background.png);
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
@@ -1089,7 +1089,7 @@ form > * {
   }
 
   .headline {
-    background-image: url(/Portfolio/images/Background.png);
+    background-image: url(./images/Background.png);
     background-size: cover;
     background-position: right;
     border-bottom-left-radius: 100px;
@@ -1156,7 +1156,7 @@ form > * {
   }
 
   .contact-wrapper {
-    background-image: url(/Portfolio/images/Background.png);
+    background-image: url(./images/Background.png);
     background-size: cover;
     background-position: center;
     border-top-left-radius: 100px;
